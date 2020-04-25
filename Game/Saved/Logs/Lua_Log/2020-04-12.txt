@@ -1,0 +1,1554 @@
+[2020-04-12 14:17:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:25: attempt to call a nil value (field 'CreateActor')
+[2020-04-12 14:18:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:37] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:38] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:39] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:41] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:42] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:43] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:18:44] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:30] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:31] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:32] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:33] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:34] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:35] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 14:19:36] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - attempt to call a nil value
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:16] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:17] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:18] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:19] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:20] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:21] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:22] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:23] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:24] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:25] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:26] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:18:27] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 16:54:09] [ Urgent ] [ Lua ] [ LuaScripter.cpp(257) ] - Assets/Lua/Script.lua:38: attempt to index a nil value (field 'Actors')
+[2020-04-12 19:41:40] [ Urgent ] [ Lua ] [ LuaScripter.cpp(264) ] - Assets/Lua/Script.lua:8: attempt to call a nil value (field 'PlayBGM')
+[2020-04-12 19:41:58] [ Urgent ] [ Lua ] [ LuaScripter.cpp(264) ] - Assets/Lua/Script.lua:8: attempt to call a nil value (field 'PlayMusic')

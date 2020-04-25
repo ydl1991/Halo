@@ -1,0 +1,27 @@
+#include "GameLogic.h"
+#include <ApplicationLayer/ApplicationLayer.h>
+#include <GameLayer/Script/LuaScripter.h>
+
+using namespace std;
+using namespace halo;
+
+namespace Lua
+{
+}
+
+void GameLogic::RegisterWithScript()
+{
+		auto pGameLayer = halo::ApplicationLayer::Get()->GetGameLayer();
+		if (auto pLuaScripter = pGameLayer->GetScripter<halo::LuaScripter>(); pLuaScripter)
+		{
+			pLuaScripter->GetGlobal("g_logic");
+			pLuaScripter->AddToTable("CreateGameUnit", Lua::GameLogicCreateGameUnit);
+			pLuaScripter->AddToTable("CreatePlayerView", Lua::GameLogicCreatePlayerView);
+			pLuaScripter->AddToTable("CreateEnemyView", Lua::GameLogicCreateEnemyView);
+			pLuaScripter->AddToTable("PlayMusic", Lua::GameLogicPlayMusic);
+			pLuaScripter->AddToTable("PlaySoundChunk", Lua::GameLogicPlaySoundChunk);
+			pLuaScripter->AddToTable("Log", Lua::GameLogicLog);
+			pLuaScripter->AddToTable("LogError", Lua::GameLogicLogError);
+			pLuaScripter->PopAll();
+		}
+}

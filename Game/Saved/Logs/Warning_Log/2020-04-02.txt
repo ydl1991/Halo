@@ -1,0 +1,4 @@
+[2020-04-02 13:16:06] [ Urgent ] [ Warning ] [ IGameLayer.cpp(24) ] - Component creation linkage should probably be moved
+[2020-04-02 13:16:34] [ Urgent ] [ Warning ] [ IGameLayer.cpp(24) ] - Component creation linkage should probably be moved
+[2020-04-02 13:19:25] [ Urgent ] [ Warning ] [ IGameLayer.cpp(24) ] - Component creation linkage should probably be moved
+[2020-04-02 13:19:29] [ Urgent ] [ Warning ] [ ApplicationLayer.cpp(143) ] - High frame time detected. DeltaSeconds manually Set!

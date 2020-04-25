@@ -1,0 +1,66 @@
+#include "TransformComponent.h"
+#include <ApplicationLayer/ApplicationLayer.h>
+#include <GameLayer/Script/LuaScripter.h>
+
+using namespace std;
+using namespace halo;
+
+namespace Lua
+{
+	static int TransformComponentGetX(lua_State* pState)
+	{
+		auto pClass = reinterpret_cast<TransformComponent*>(lua_touserdata(pState, 1));
+		lua_pop(pState, 1);
+		float arg = pClass->GetX();
+		lua_pushnumber(pState, arg);
+		return 1;
+	}
+
+	static int TransformComponentGetY(lua_State* pState)
+	{
+		auto pClass = reinterpret_cast<TransformComponent*>(lua_touserdata(pState, 1));
+		lua_pop(pState, 1);
+		float arg = pClass->GetY();
+		lua_pushnumber(pState, arg);
+		return 1;
+	}
+
+	static int TransformComponentSetX(lua_State* pState)
+	{
+		auto pClass = reinterpret_cast<TransformComponent*>(lua_touserdata(pState, 1));
+		float arg = static_cast<float>(luaL_checknumber(pState, 2));
+		pClass->SetX(arg);
+		lua_pop(pState, 2);
+		return 0;
+	}
+
+	static int TransformComponentSetY(lua_State* pState)
+	{
+		auto pClass = reinterpret_cast<TransformComponent*>(lua_touserdata(pState, 1));
+		float arg = static_cast<float>(luaL_checknumber(pState, 2));
+		pClass->SetY(arg);
+		lua_pop(pState, 2);
+		return 0;
+	}
+
+}
+
+void TransformComponent::RegisterWithScript()
+{
+		auto pGameLayer = halo::ApplicationLayer::Get()->GetGameLayer();
+		if (auto pLuaScripter = pGameLayer->GetScripter<halo::LuaScripter>(); pLuaScripter)
+		{
+			pLuaScripter->GetGlobal("g_logic");
+			pLuaScripter->RetrieveElementFromTable("GameUnits");
+			pLuaScripter->RetrieveElementFromTable(GetOwner()->GetID());
+			pLuaScripter->CreateTable();
+			pLuaScripter->AddToTable("this", this);
+			pLuaScripter->AddToTable("GetX", Lua::TransformComponentGetX);
+			pLuaScripter->AddToTable("GetY", Lua::TransformComponentGetY);
+			pLuaScripter->AddToTable("SetX", Lua::TransformComponentSetX);
+			pLuaScripter->AddToTable("SetY", Lua::TransformComponentSetY);
+			pLuaScripter->AddToTable("Move", Lua::TransformComponentMove);
+			pLuaScripter->AddToTable("TransformComponent");
+			pLuaScripter->Pop(3);
+		}
+}

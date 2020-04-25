@@ -1,0 +1,24 @@
+<!-- Comment -->
+<!-- Comment <SpriteComponent src ="Assets/Images/Frog.png" /> -->
+
+<GameUnit>
+  <!--All the Components-->
+  <Components>
+    <TransformComponent>
+        <Position x="100" y="200" />
+    </TransformComponent>
+    <BoxComponent>
+      <Dimensions width="50" height="50"/>
+    </BoxComponent>
+    <RenderableComponent>
+      <Color r="0" g="0" b="255"/>
+    </RenderableComponent>
+  </Components>
+
+  <!--All the Processes-->
+  <Processes>
+    <!--<AnimationProcess>
+      
+    </AnimationProcess>-->
+  </Processes>
+</GameUnit>

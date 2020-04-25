@@ -1,0 +1,1 @@
+[2020-04-24 12:54:31] [ Urgent ] [ Warning ] [ IGameLayer.cpp(26) ] - Component creation linkage should probably be moved

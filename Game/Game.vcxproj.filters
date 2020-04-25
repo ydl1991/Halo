@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{fc6ad74c-a282-49aa-8f4d-c12690c89a59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{ac558c21-38d9-4d77-a72b-dad07c6cdeaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\PlayerView">
+      <UniqueIdentifier>{f0780cf2-79c6-48f2-af5a-03cf6add0e94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML">
+      <UniqueIdentifier>{dfa50b90-95e6-44da-9a9e-62176f4ad513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\EnemyView">
+      <UniqueIdentifier>{b17b8e18-090c-4d5f-9d52-4595948f60f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\BombView">
+      <UniqueIdentifier>{a06935e3-3bd4-4210-a7e4-3e818897c159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lua">
+      <UniqueIdentifier>{425d16d6-3be1-4a7c-a11b-82675c3e2347}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\GameLogic.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\App\GameApp.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\PlayerView\PlayerView.cpp">
+      <Filter>Game\PlayerView</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\EnemyView\EnemyView.cpp">
+      <Filter>Game\EnemyView</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\BombView\BombView.cpp">
+      <Filter>Game\BombView</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Game\GameLogic.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\App\GameApp.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game\PlayerView\PlayerView.h">
+      <Filter>Game\PlayerView</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game\EnemyView\EnemyView.h">
+      <Filter>Game\EnemyView</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game\BombView\BombView.h">
+      <Filter>Game\BombView</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Assets\XML\TestEnemyUnit.xml">
+      <Filter>XML</Filter>
+    </Xml>
+    <Xml Include="Assets\XML\TestPlayerUnit.xml">
+      <Filter>XML</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Lua\Script.lua">
+      <Filter>Lua</Filter>
+    </None>
+    <None Include="Source\Game\GameLogic.gen">
+      <Filter>Game</Filter>
+    </None>
+  </ItemGroup>
+</Project>

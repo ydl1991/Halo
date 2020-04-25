@@ -1,0 +1,19 @@
+Keyboard Instruction:
+Space       :  show texture 1 on screen , trigger shooting sound effect
+J     	    :  show texture 2 on screen
+K    	    :  show texture 3 on screen
+Up Arrow    :  move player box up
+Down Arrow  :  move player box down
+Left Arrow  :  move player box left
+Right Arrow :  move player box right
+Esc	    :  Quit Game
+
+Mouse Instruction:
+Left Button  : trigger screaming sound effect
+Right Button : trigger Fade-Out song switch transition
+Wheel up     : increase volume
+wheel down   : decrease volume
+
+
+Bonus Implemented:
+Implement Enemy View, Enemy box will chase player position

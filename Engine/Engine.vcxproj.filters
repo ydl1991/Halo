@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ApplicationLayer">
+      <UniqueIdentifier>{90f2e51e-ac0b-4258-8424-610dcdebcbf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\OS">
+      <UniqueIdentifier>{41c89849-afc3-4d17-9d42-7d69e6672926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer">
+      <UniqueIdentifier>{5ffe62b5-989b-41e7-bfa1-f9c4a7458521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{6c136fea-37da-4619-9f6d-2ba38da5d213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Window">
+      <UniqueIdentifier>{af5f1f75-2e1b-4d95-8236-d5ff0d266bb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Graphics">
+      <UniqueIdentifier>{98645926-f3de-4b03-80a8-5aa93bac2629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Texture">
+      <UniqueIdentifier>{31c05ca9-2ac6-468d-994f-276817879f3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Input">
+      <UniqueIdentifier>{9819a8aa-6cc3-4711-92d3-8b8bd2be1fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Audio">
+      <UniqueIdentifier>{c2bf2519-f9ee-47a7-ab98-ddca601c15a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\View">
+      <UniqueIdentifier>{a952259f-fb55-48f5-a0c2-c73188718338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components">
+      <UniqueIdentifier>{3864f702-47f1-44e3-aee0-e64a6f7ea03d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\GameUnits">
+      <UniqueIdentifier>{d9adf7e0-7d52-4f9e-ae47-56309b709aad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\TinyXml">
+      <UniqueIdentifier>{4a0934ae-8b55-46cf-9f6c-89897bc7412f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components\TransformComponent">
+      <UniqueIdentifier>{a7010497-7408-4ed2-83fd-92656ab4f111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components\BoxComponent">
+      <UniqueIdentifier>{4511b176-257b-49ad-b6f7-a421b846f67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components\RenderableComponent">
+      <UniqueIdentifier>{e6263b75-e986-4e05-bfca-1adf6d3d53b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Color">
+      <UniqueIdentifier>{7caf14a9-caf7-4a3d-ace2-16dabe96db5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Process">
+      <UniqueIdentifier>{7a95c7ba-e533-4afa-97ae-9df427f83457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Process\Timer">
+      <UniqueIdentifier>{7e1d4334-8c0f-46aa-8387-de0ccc70074e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Settings">
+      <UniqueIdentifier>{d5c05548-dc67-44c8-b9f3-a6787795af8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Process\Move">
+      <UniqueIdentifier>{6e0b67e9-3a5d-45c9-8da8-b0eb0198e91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components\AnimatorComponent">
+      <UniqueIdentifier>{0f74dd5e-ecbc-4cc2-a66d-f713de6bcfb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Process\Animation">
+      <UniqueIdentifier>{bb1ce9e5-3d7c-4e80-a58c-ad592d0b7551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Event">
+      <UniqueIdentifier>{726f3548-b7e8-4849-8c95-78e8a8a23cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Event\Events">
+      <UniqueIdentifier>{51ab9c98-247c-44f0-86a9-5cbe9a70b1ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Resource">
+      <UniqueIdentifier>{3cf00b6b-914c-43bd-9420-6a88d67dd1e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Math">
+      <UniqueIdentifier>{1dc6be93-ea29-4bfb-95d1-45816de3f5cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Math\Shapes">
+      <UniqueIdentifier>{0b8e5472-5f40-42b7-9b6b-7b145c7bfbcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Math\Vectors">
+      <UniqueIdentifier>{4c2fb651-b922-4cd1-83de-a068872c82fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Sound">
+      <UniqueIdentifier>{70409a94-7c6c-477f-9a2e-5726c3e1d62f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Sound\Music">
+      <UniqueIdentifier>{1ac4c652-b5a4-4448-a3af-d6c9ae547f5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ApplicationLayer\Sound\Chunk">
+      <UniqueIdentifier>{b8e8e990-92c1-4439-adc3-0cc0c9e68d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Script">
+      <UniqueIdentifier>{deb6dcf3-c584-48a7-ab70-f372015832ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Physics">
+      <UniqueIdentifier>{11e77dcf-97f5-45a9-86c3-6431995f2e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLayer\Components\PhysicsComponent">
+      <UniqueIdentifier>{93969654-e82c-4313-8e4f-35179a118a4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\ApplicationLayer\ApplicationLayer.cpp">
+      <Filter>ApplicationLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\OS\IOpSys.cpp">
+      <Filter>ApplicationLayer\OS</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\OS\Win32.cpp">
+      <Filter>ApplicationLayer\OS</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\IGameLayer.cpp">
+      <Filter>GameLayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\Log.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Window\IWindow.cpp">
+      <Filter>ApplicationLayer\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Window\WindowSDL.cpp">
+      <Filter>ApplicationLayer\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Graphics\IGraphics.cpp">
+      <Filter>ApplicationLayer\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Graphics\GraphicsSDL.cpp">
+      <Filter>ApplicationLayer\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Texture\ITexture.cpp">
+      <Filter>ApplicationLayer\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Texture\TextureSDL.cpp">
+      <Filter>ApplicationLayer\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Input\IKeyboard.cpp">
+      <Filter>ApplicationLayer\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Input\IMouse.cpp">
+      <Filter>ApplicationLayer\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Audio\IAudio.cpp">
+      <Filter>ApplicationLayer\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Audio\AudioSDL.cpp">
+      <Filter>ApplicationLayer\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\View\IView.cpp">
+      <Filter>ApplicationLayer\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\IComponent.cpp">
+      <Filter>GameLayer\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\GameUnit\GameUnit.cpp">
+      <Filter>GameLayer\GameUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\GameUnit\UnitFactory.cpp">
+      <Filter>GameLayer\GameUnits</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\TransformComponent\TransformComponent.cpp">
+      <Filter>GameLayer\Components\TransformComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\BoxComponent\BoxComponent.cpp">
+      <Filter>GameLayer\Components\BoxComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\RenderableComponent\RenderableComponent.cpp">
+      <Filter>GameLayer\Components\RenderableComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Process\ProcessController.cpp">
+      <Filter>GameLayer\Process</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Process\IProcess.cpp">
+      <Filter>GameLayer\Process</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Process\Timer\DelayProcess.cpp">
+      <Filter>GameLayer\Process\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Process\Move\MoveProcess.cpp">
+      <Filter>GameLayer\Process\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\AnimatorComponent\AnimatorComponent.cpp">
+      <Filter>GameLayer\Components\AnimatorComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Process\Animation\AnimationProcess.cpp">
+      <Filter>GameLayer\Process\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Event\IEvent.cpp">
+      <Filter>GameLayer\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Event\EventDispatcher.cpp">
+      <Filter>GameLayer\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Event\Events\CreateActorEvent.cpp">
+      <Filter>GameLayer\Event\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Resource\IResource.cpp">
+      <Filter>GameLayer\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Resource\ResourceCache.cpp">
+      <Filter>GameLayer\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\Math\Vectors\Vector2D.cpp">
+      <Filter>Utils\Math\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Event\Events\DestroyActorEvent.cpp">
+      <Filter>GameLayer\Event\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Sound\Music\IMusic.cpp">
+      <Filter>ApplicationLayer\Sound\Music</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Sound\Chunk\ISoundChunk.cpp">
+      <Filter>ApplicationLayer\Sound\Chunk</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Sound\Music\MusicSDL.cpp">
+      <Filter>ApplicationLayer\Sound\Music</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ApplicationLayer\Sound\Chunk\SoundChunkSDL.cpp">
+      <Filter>ApplicationLayer\Sound\Chunk</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Script\IScripter.cpp">
+      <Filter>GameLayer\Script</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Script\LuaScripter.cpp">
+      <Filter>GameLayer\Script</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utils\TinyXml\tinyxml2.cpp">
+      <Filter>Utils\TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Physics\Box2DPhysics.cpp">
+      <Filter>GameLayer\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Physics\ContactListener.cpp">
+      <Filter>GameLayer\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Physics\IPhysicsSimulation.cpp">
+      <Filter>GameLayer\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\Physics\Box2DPhysicsComponent.cpp">
+      <Filter>GameLayer\Components\PhysicsComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameLayer\Components\Physics\IPhysicsComponent.cpp">
+      <Filter>GameLayer\Components\PhysicsComponent</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\ApplicationLayer\ApplicationLayer.h">
+      <Filter>ApplicationLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\OS\IOpSys.h">
+      <Filter>ApplicationLayer\OS</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\OS\Win32.h">
+      <Filter>ApplicationLayer\OS</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\IGameLayer.h">
+      <Filter>GameLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Log.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Window\IWindow.h">
+      <Filter>ApplicationLayer\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Window\WindowSDL.h">
+      <Filter>ApplicationLayer\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Graphics\IGraphics.h">
+      <Filter>ApplicationLayer\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Graphics\GraphicsSDL.h">
+      <Filter>ApplicationLayer\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Texture\ITexture.h">
+      <Filter>ApplicationLayer\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Texture\TextureSDL.h">
+      <Filter>ApplicationLayer\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Input\IKeyboard.h">
+      <Filter>ApplicationLayer\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Input\IMouse.h">
+      <Filter>ApplicationLayer\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Audio\IAudio.h">
+      <Filter>ApplicationLayer\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Audio\AudioSDL.h">
+      <Filter>ApplicationLayer\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\View\IView.h">
+      <Filter>ApplicationLayer\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\IComponent.h">
+      <Filter>GameLayer\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\GameUnit\GameUnit.h">
+      <Filter>GameLayer\GameUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\GameUnit\UnitFactory.h">
+      <Filter>GameLayer\GameUnits</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\TransformComponent\TransformComponent.h">
+      <Filter>GameLayer\Components\TransformComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\BoxComponent\BoxComponent.h">
+      <Filter>GameLayer\Components\BoxComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\RenderableComponent\RenderableComponent.h">
+      <Filter>GameLayer\Components\RenderableComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Color\Color.h">
+      <Filter>Utils\Color</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Process\ProcessController.h">
+      <Filter>GameLayer\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Process\IProcess.h">
+      <Filter>GameLayer\Process</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Process\Timer\DelayProcess.h">
+      <Filter>GameLayer\Process\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Settings\EngineSetting.h">
+      <Filter>ApplicationLayer\Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Process\Move\MoveProcess.h">
+      <Filter>GameLayer\Process\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\AnimatorComponent\AnimatorComponent.h">
+      <Filter>GameLayer\Components\AnimatorComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Process\Animation\AnimationProcess.h">
+      <Filter>GameLayer\Process\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Event\IEvent.h">
+      <Filter>GameLayer\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Event\EventDispatcher.h">
+      <Filter>GameLayer\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Event\Events\CreateActorEvent.h">
+      <Filter>GameLayer\Event\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Resource\IResource.h">
+      <Filter>GameLayer\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Resource\ResourceCache.h">
+      <Filter>GameLayer\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Math\Shapes\Shapes.h">
+      <Filter>Utils\Math\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Math\Vectors\Vector2D.h">
+      <Filter>Utils\Math\Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\Math\Math.h">
+      <Filter>Utils\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Event\Events\DestroyActorEvent.h">
+      <Filter>GameLayer\Event\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Sound\Music\IMusic.h">
+      <Filter>ApplicationLayer\Sound\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Sound\Chunk\ISoundChunk.h">
+      <Filter>ApplicationLayer\Sound\Chunk</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Sound\Music\MusicSDL.h">
+      <Filter>ApplicationLayer\Sound\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ApplicationLayer\Sound\Chunk\SoundChunkSDL.h">
+      <Filter>ApplicationLayer\Sound\Chunk</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Script\IScripter.h">
+      <Filter>GameLayer\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Script\LuaScripter.h">
+      <Filter>GameLayer\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utils\TinyXml\tinyxml2.h">
+      <Filter>Utils\TinyXml</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Physics\Box2DPhysics.h">
+      <Filter>GameLayer\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Physics\ContactListener.h">
+      <Filter>GameLayer\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Physics\IPhysicsSimulation.h">
+      <Filter>GameLayer\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\Physics\Box2DPhysicsComponent.h">
+      <Filter>GameLayer\Components\PhysicsComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameLayer\Components\Physics\IPhysicsComponent.h">
+      <Filter>GameLayer\Components\PhysicsComponent</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source\GameLayer\Components\TransformComponent\TransformComponent.gen">
+      <Filter>GameLayer\Components\TransformComponent</Filter>
+    </None>
+  </ItemGroup>
+</Project>

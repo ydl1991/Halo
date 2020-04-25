@@ -1,0 +1,15 @@
+[2020-04-18 18:37:48] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:38:12] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:39:09] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:45:29] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:47:19] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:55:06] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:55:27] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:55:36] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:55:50] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 18:57:18] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 19:02:07] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 19:04:16] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 19:04:45] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 19:05:05] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved
+[2020-04-18 19:12:07] [ Urgent ] [ Warning ] [ IGameLayer.cpp(22) ] - Component creation linkage should probably be moved

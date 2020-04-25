@@ -1,0 +1,30 @@
+Keyboard Instruction:
+Space       :  show texture 1 on screen , trigger shooting sound effect
+J     	    :  show texture 2 on screen
+K    	    :  show texture 3 on screen
+Up Arrow    :  show red screen , trigger power up sound effect
+Down Arrow  :  show another color screen
+Left Arrow  :  show another color screen
+Right Arrow :  show another color screen
+Esc	    :  Quit Game
+
+Mouse Instruction:
+Left Button  : trigger screaming sound effect
+Right Button : trigger Fade-Out song switch transition
+Wheel up     : increase volume
+wheel down   : decrease volume
+
+
+Bonus Implemented:
+Graphics:
+	- Ability to draw textures that don’t fill the entire screen
+	- Ability to tint your textures with a specified color (not test yet)
+	- Ability to turn your textures translucent with a specified alpha (not test yet)
+Input:
+	- Adding more keys to use with your keyboard
+	- Adding more keys to use with your mouse
+	- Adding mouse wheel support
+Audio: 
+	- Ability to stop or pause music
+	- Ability to fade music to another song
+	- Ability to change the volume of music and/or sound effects
